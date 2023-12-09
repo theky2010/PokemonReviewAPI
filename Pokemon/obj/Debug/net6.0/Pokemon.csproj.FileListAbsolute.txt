@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\Pokemon\Pokemon\obj\Debug\net6.0\Pokemon.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Pokemon\Pokemon\obj\Debug\net6.0\Pokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\Pokemon\Pokemon\obj\Debug\net6.0\Pokemon.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Pokemon\Pokemon\obj\Debug\net6.0\Pokemon.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Pokemon\Pokemon\obj\Debug\net6.0\Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Pokemon\Pokemon\obj\Debug\net6.0\Pokemon.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Asus\source\repos\Pokemon\Pokemon\obj\Debug\net6.0\Pokemon.MvcApplicationPartsAssemblyInfo.cache
